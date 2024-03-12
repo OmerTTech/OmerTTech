@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Frontend Developer course** from ATL Academy
 
-- 👨‍💻 All of my projects are available at [https://github.com/HypmerJ](https://github.com/HyperOmer)
+- 👨‍💻 All of my projects are available at [https://github.com/OmerTTech](https://github.com/OmerTTech)
 
 - 📫 How to reach me **omer.tapdiqov@gmail.com**
 
