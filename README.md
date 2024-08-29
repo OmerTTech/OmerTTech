@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, <br> I'm Omer Tapdiqov</h1>
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
-<h3 align="center">A am Web Developer from Azerbaijan</h3>
+<h3 align="center">I am a MERN Stack Developer from Azerbaijan</h3>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
