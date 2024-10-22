@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **omer.tapdiqov@gmail.com**
 
-- ⚡ Fun fact **I think that I unintentionally become the best at everything**
+- ⚡ Fun fact **I think I will be more than my potential in programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
