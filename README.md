@@ -7,18 +7,18 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Frontend Developer course** from ATL Academy
+- 🌱 I’m currently learning **JavaScript Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/OmerTTech](https://github.com/OmerTTech)
 
 - 📫 How to reach me **omer.tapdiqov@gmail.com**
 
-- ⚡ Fun fact **I think I will be more than my potential in programming.**
+- ⚡ Fun fact **I believe that I will be a software developer king - Senior JavaScript Software Developer - in the future..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/%C3%B6m%C9%99r-tapd%C4%B1qov-02155b263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Ömər Tapdıqov" height="30" width="40" /></a>
-<a href="https://instagram.com/omer_tapdiqov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer_tapdiqov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Omerttech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin Ömər Tapdıqov" height="30" width="40" /></a>
+<a href="https://www.instagram.com/omerttech/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer_tapdiqov" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
